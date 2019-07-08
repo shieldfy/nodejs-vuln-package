@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-vuln-package",
+  "version": "1.0.0",
+  "description": "Shieldfy test vulnerable nodejs package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shieldfy/nodejs-vuln-package.git"
+  },
+  "author": "team@shieldfy.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shieldfy/nodejs-vuln-package/issues"
+  },
+  "homepage": "https://github.com/shieldfy/nodejs-vuln-package#readme",
+  "dependencies": {
+    "algo-httpserv": "^1.1.1"
+  }
+}
