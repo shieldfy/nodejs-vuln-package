@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shieldfy/nodejs-vuln-package#readme",
   "dependencies": {
-    "algo-httpserv": "^1.1.1"
+    "algo-httpserv": "1.1.2"
   }
 }
